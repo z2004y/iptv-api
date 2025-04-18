@@ -20,9 +20,7 @@ from utils.retry import (
 )
 from utils.tools import (
     get_pbar_remaining,
-    get_soup,
-    format_url_with_cache,
-    add_url_info
+    get_soup
 )
 
 if config.open_driver:
@@ -47,7 +45,6 @@ async def get_channels_by_online_search(names, callback=None):
     if open_proxy:
         proxy = await get_proxy(pageUrl, best=True, with_test=True)
     start_time = time()
-    online_search_name = constants.origin_map["online_search"]
 
     def process_channel_by_online_search(name):
         nonlocal proxy
@@ -151,11 +148,13 @@ async def get_channels_by_online_search(names, callback=None):
                                 retries += 1
                                 continue
                             for result in results:
-                                url, date, resolution = result
+                                url = result["url"]
                                 if url:
-                                    url = add_url_info(url, online_search_name)
-                                    url = format_url_with_cache(url)
-                                    info_list.append((url, date, resolution))
+                                    info_list.append({
+                                        "url": url,
+                                        "date": result["date"],
+                                        "resolution": result["resolution"]
+                                    })
                             break
                         else:
                             print(
