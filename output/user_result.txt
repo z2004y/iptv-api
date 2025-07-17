@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-17 06:35:21,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-07-17 18:36:26,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -186,8 +186,8 @@ CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
-CETV1,http://124.128.73.58/rtp/239.253.254.110:8000$山东联通组播源-cache:124.128.73.58
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
+CETV1,http://123.130.84.106/rtp/239.253.254.110:8000$山东联通组播源-cache:123.130.84.106
 CETV1,http://123.129.70.178/rtp/239.253.254.110:8000$山东联通组播源-cache:123.129.70.178
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
@@ -196,7 +196,6 @@ CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 CETV2,http://110.7.131.79/rtp/239.125.1.29:5000$内蒙古联通组播源-cache:110.7.131.79
-CETV2,http://113.57.93.165/rtp/228.0.0.198:7198$湖北联通组播源-cache:113.57.93.165
 CETV2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
@@ -204,9 +203,9 @@ CETV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
 CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV4,http://124.128.73.58/rtp/239.253.254.116:8000$山东联通组播源-cache:124.128.73.58
+CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
+CETV4,http://123.130.84.106/rtp/239.253.254.116:8000$山东联通组播源-cache:123.130.84.106
 CETV4,http://123.129.70.178/rtp/239.253.254.116:8000$山东联通组播源-cache:123.129.70.178
 CETV4,http://110.7.131.79/rtp/239.125.1.110:4120$内蒙古联通组播源-cache:110.7.131.79
 CETV4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
@@ -226,6 +225,7 @@ CETV4,rtsp://180.95.143.19/PLTV/88888910/224/3221225594/100001000000000600000000
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
