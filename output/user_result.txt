@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 06:25:18,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-12-01 18:24:28,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -188,7 +188,7 @@ CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 CETV1,https://cc06.tv12.xyz/23.m3u8
 CETV1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
 CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
-CETV1,http://123.129.70.178/rtp/239.253.254.110:8000$山东联通组播源-cache:123.129.70.178
+CETV1,http://123.130.84.106/rtp/239.253.254.110:8000$山东联通组播源-cache:123.130.84.106
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
@@ -210,7 +210,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
-CETV4,http://123.129.70.178/rtp/239.253.254.116:8000$山东联通组播源-cache:123.129.70.178
+CETV4,http://123.130.84.106/rtp/239.253.254.116:8000$山东联通组播源-cache:123.130.84.106
 CETV4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 📡卫视频道,#genre#
